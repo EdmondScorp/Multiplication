@@ -1,0 +1,10 @@
+.main {
+    display: inline;
+}
+
+table, td {
+    border: 5px solid black;
+    border-color: red;
+    border-collapse: collapse;
+    width: 480px;
+}
